@@ -34,3 +34,8 @@
     text-decoration: none;
     cursor: pointer;
   }
+
+  #main-content{
+      text-align: center;
+      padding: 15px 15px;
+  }
